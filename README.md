@@ -51,6 +51,9 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 ├── readme.md
 └── report.pdf
 ```
-## Additonal Notes
+## Additional Notes
 
-For a comprehensive analysis of our project, please refer to the accompanying document `report.pdf`. To run inference, navigate to the folder `inference_module/IMT2022064` which contains the inference script and finetuned-model.
+- A comprehensive analysis of the project is provided in the accompanying document: `report.pdf`.  
+- Our custom, handcrafted VQA dataset is available at: `dataset_curation/files/vqa.csv`.  
+- To run inference, navigate to: `inference_module/IMT2022064`, which contains the inference script and the fine-tuned model.
+
