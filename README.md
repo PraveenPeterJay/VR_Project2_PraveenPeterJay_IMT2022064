@@ -31,7 +31,7 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 │   ├── files/
 │   |   ├── balanced_dataset.csv
 │   |   ├── images.csv
-│   |    ├── vqa.csv
+│   |   └── vqa.csv
 │   ├── images/
 │   └── scripts/
 │       ├── amazon_vqa_generator.py
