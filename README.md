@@ -29,9 +29,9 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 │       └── vilt.py
 ├── dataset_curation/
 │   ├── files/
-│       ├── balanced_dataset.csv
-│       ├── images.csv
-│       ├── vqa.csv
+│   |   ├── balanced_dataset.csv
+│   |   ├── images.csv
+│   |    ├── vqa.csv
 │   ├── images/
 │   └── scripts/
 │       ├── amazon_vqa_generator.py
@@ -45,9 +45,9 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 │       └── blip_lora.ipynb
 ├── inference_module/
 │   └── IMT2022064
-│   │   ├── model/
-│   │   ├── inference.py
-│   │   └── requirements.txt
+│       ├── model/
+│       ├── inference.py
+│       └── requirements.txt
 ├── readme.md
 └── report.pdf
 ```
