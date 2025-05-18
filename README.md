@@ -1,5 +1,8 @@
 # Visual Recognition Project 2
 
+## Contributors
+Shannon Muthanna I B (IMT2022552), Aayush Bhargav (IMT2022089), and Praveen Peter Jay (IMT2022064)
+
 ## Directory Structure
 
 ```
@@ -47,3 +50,7 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 │   │   └── requirements.txt
 ├── readme.md
 └── report.pdf
+```
+## Additonal Notes
+
+For a comprehensive analysis of our project, please refer to the accompanying document `report.pdf`. To run inference, navigate to the folder `inference_module/IMT2022064` which contains the inference script and finetuned-model.
