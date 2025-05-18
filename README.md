@@ -38,13 +38,13 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 │       ├── balance_dataset.py
 │       └── vqa_generator_checkpoint.txt
 ├── finetuned_model/
-│   └── blip
+│   └── blip/
 │       ├── images/
 │       ├── model/
 │       ├── results/
 │       └── blip_lora.ipynb
 ├── inference_module/
-│   └── IMT2022064
+│   └── IMT2022064/
 │       ├── model/
 │       ├── inference.py
 │       └── requirements.txt
