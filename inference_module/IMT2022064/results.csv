@@ -1,0 +1,4 @@
+image_name,question,answer,generated_answer
+1.jpg,What is the color of the car?,red,red
+2.jpg,What is the object in the image?,car,car
+3.jpg,How many wheels are visible?,three,two
