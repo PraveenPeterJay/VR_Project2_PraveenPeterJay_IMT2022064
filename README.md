@@ -54,6 +54,6 @@ VR_Project2_PraveenPeterJay_IMT2022064/
 ## Additional Notes
 
 - A comprehensive analysis of the project is provided in the accompanying document: `report.pdf`.  
-- Our custom, handcrafted VQA dataset is available at: `dataset_curation/files/vqa.csv`.  
+- Our custom, handcrafted VQA dataset with 45,482 question-answer pairs is available at: `dataset_curation/files/vqa.csv`.  
 - To run inference, navigate to: `inference_module/IMT2022064`, which contains the inference script and the fine-tuned model.
 
